@@ -19,7 +19,7 @@ public class Value {
     return this.quote;
   }
 
-  public void setId(Long id) {
+  public void setId(Long id) { 
     this.id = id;
   }
 
